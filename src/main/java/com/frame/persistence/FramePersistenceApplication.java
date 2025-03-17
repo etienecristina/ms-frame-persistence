@@ -1,4 +1,4 @@
-package com.frame.demo;
+package com.frame.persistence;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
