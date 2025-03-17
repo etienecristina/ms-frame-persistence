@@ -3,7 +3,8 @@ name: Build ECR image
 on:
   push:
     branches:
-      - main
+#      - main
+
 jobs:
   sonar:
     name: SonarCloud Execution
